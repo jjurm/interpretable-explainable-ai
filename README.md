@@ -7,13 +7,13 @@ This project is done as part of the [Machine Learning for Health Care](https://w
 **Part 2** predicts Pneumonia and is based on the [Chest X-Ray Images (Pneumonia)
 ](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) dataset on Kaggle.
 
-<img src="https://github.com/jjurm/interpretable-explainable-ai/raw/master/assets/shap_beeswarm.png" width="400" height="395" />
+<img src="https://github.com/jjurm/interpretable-explainable-ai/blob/main/assets/shap_beeswarm.png?raw=true" width="400" height="395" />
 
 ## Report
 
 Read the associated *report* below, or see the [report repository](https://github.com/jjurm/interpretable-explainable-ai-report).
 
-<a href="https://github.com/jjurm/interpretable-explainable-ai/blob/master/report.pdf" target="_blank"><img src="https://github.com/jjurm/interpretable-explainable-ai/raw/master/assets/report-01.png" width="300" height="424" /></a>
+<a href="https://github.com/jjurm/interpretable-explainable-ai/blob/master/report.pdf" target="_blank"><img src="https://github.com/jjurm/interpretable-explainable-ai/blob/main/assets/report-01.png?raw=true" width="300" height="424" /></a>
 
 ## Team
 
