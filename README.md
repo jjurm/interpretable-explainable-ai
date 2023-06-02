@@ -4,10 +4,12 @@ This project is done as part of the [Machine Learning for Health Care](https://w
 
 **Part 1** predicts Heart Failures and is based on the [Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) on Kaggle.
 
+<img src="https://github.com/jjurm/interpretable-explainable-ai/blob/main/assets/shap_beeswarm.png?raw=true" width="400" height="395" />
+
 **Part 2** predicts Pneumonia and is based on the [Chest X-Ray Images (Pneumonia)
 ](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) dataset on Kaggle.
 
-<img src="https://github.com/jjurm/interpretable-explainable-ai/blob/main/assets/shap_beeswarm.png?raw=true" width="400" height="395" />
+<img src="https://github.com/jjurm/interpretable-explainable-ai/blob/main/assets/ig_rand_test_P.png?raw=true" width="600" height="174" />
 
 ## Report
 
