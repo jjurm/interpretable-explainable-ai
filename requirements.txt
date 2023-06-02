@@ -1,0 +1,9 @@
+matplotx==0.3.10
+pandas==1.5.3
+dtreeviz==2.2.0
+shap==0.41.0
+scikit-learn==1.2.2
+matplotlib==3.5.3
+dython==0.7.3
+svglib==1.5.1
+umap-learn
